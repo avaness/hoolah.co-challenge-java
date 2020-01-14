@@ -1,1 +1,1 @@
-# hoolah.co-challenge
+# hoolah.co-challenge-java
